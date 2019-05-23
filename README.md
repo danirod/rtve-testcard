@@ -18,7 +18,7 @@ Here is a [live demo](https://danirod.github.io/rtve-testcard/) you can test on 
 
 ![Test pattern](demo.png)
 
-It should work on other browsers as long as they have good support for SVG. Latest Safari on macOS High Sierra doesn't display properly the sinusoidal bars (the black and white stripes below the grayscale gradient).
+It should work on other browsers as long as they have good support for SVG. Safari 12 supports all the SVG features in use. Older versions of Safari won't display properly the sinusoidal bars (the black and white stripes below the grayscale gradient).
 
 # References
 
